@@ -11,3 +11,13 @@
 - “Orion” Bomb Cyclone: A Journal of Ecopoetics, collage / found poetry.
 - “How We Love” APIARY, Short Fiction.
 - “Peety (Washington, DC, 1959)” Cleaver: Philadelphia's InternationalLiterary  Magazine, Short Fiction.
+
+# Data Visualizations:
+- [Timeline of Manumissions from Manumitted Project at Haverford College](https://time.graphics/line/509526)
+- [Pie Chart of Manumissions by Place from Manumitted Project at Haverford College](https://chart-studio.plotly.com/~dsattenlopez/1/)
+- [Age of Freedom for the Manumitted from Manumitted Project at Haverford College](https://chart-studio.plotly.com/~dsattenlopez/3/)
+- [Map of Timelapse of books per scanning center for Scanning Labor Project](https://scanninglabor.github.io/IAScanningLabor/scans_per_center_per_month_v2.html)
+- [Map of Total pages per scanning center for Scanning Labor Project](https://scanninglabor.github.io/IAScanningLabor/total_pages_v2.html)
+- [Map of Total workers per scanning center for Scanning Labor Project](https://scanninglabor.github.io/IAScanningLabor/total_workers_v2.html)
+- [Map of Median turnover per scanning center for Scanning Labor Project](https://scanninglabor.github.io/IAScanningLabor/median_turnover_rate_v2.html)
+- [Map of Productivity per scanning center measured by total pages scanned per total days open by total workers for Scanning Labor Project](https://scanninglabor.github.io/IAScanningLabor/productivity_per_center_v2.html)
