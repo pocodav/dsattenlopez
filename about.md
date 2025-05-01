@@ -11,4 +11,4 @@
 .
 My LinkedIn: https://www.linkedin.com/in/dsattenlopez/
 .
-Some of my favorite cities I've visited: La Paz, Marseille, Ciudad de México, Los Angeles, Houston, NYC, Portland, Shanghai.
+Some of my favorite cities I've visited: La Paz, Marseille, Ciudad de México, Los Angeles, Toronto, Houston, NYC, Portland, Shanghai.
