@@ -11,7 +11,7 @@
 ![Scan of collage entitled History Of Sitting](/collages/HistoryOfSitting.jpeg)
 
 -InFamous
-![Scan of collage entitled InFamous](/collages/InFamous_041425.tiff)
+![Scan of collage entitled InFamous](/collages/InFamous_041425.png)
 
 -Invasion
 ![Scan of collage entitled Invasion](/collages/Invasion.JPG)
@@ -23,7 +23,7 @@
 ![Scan of collage entitled picnic](/collages/picnic.jpg)
 
 -ADHDTherapist_050125.tiff
-![Scan of collage entitled ADHDTherapist_050125.tiff](/collages/ADHDTherapist_050125.tiff)
+![Scan of collage entitled ADHDTherapist_050125.tiff](/collages/ADHDTherapist_050125.png)
 
 -11_14_51_scan231421161.jpg
 ![Scan of collage entitled 11_14_51_scan231421161.jpg](/collages/11_14_51_scan231421161.jpg)
